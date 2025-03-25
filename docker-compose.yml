@@ -1,0 +1,17 @@
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    restart: always
+    env_file:
+      - .env
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "${DB_PASSWORD}"
+      MSSQL_PID: "Developer"
+    ports:
+      - "14336:1433"
+    volumes:
+      - auth-storage:/var/opt/mssql
+
+volumes:
+  auth-storage:
