@@ -1,1 +1,68 @@
+# Ignore Angular build and dependency files
+/node_modules/
+/dist/
+/tmp/
+/.angular/
+/.vs/
+/.vscode/
+
+# Ignore environment files
+/src/environments/environment*.ts
+
+# Ignore IDE/editor settings
+.idea/
+*.iml
+
+# Ignore log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore .NET build and dependency files
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vspscc
+*.vssscc
+
+# Ignore ASP.NET user-secrets
+**/secrets.json
+
+# Ignore .NET packages
+packages/
+**/project.lock.json
+
+# Ignore publish output
+publish/
+wwwroot/
+
+# Ignore database files
+*.mdf
+*.ldf
+
+# Ignore Docker files
+.dockerignore
+
+# Ignore coverage reports
+/coverage/
+
+# Ignore compiled TypeScript files
+*.js
+*.js.map
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore dependency directories and lockfiles
+package-lock.json
+yarn.lock
+
+# Ignore Kubernetes files
+k8s/*.yaml
+
 .env
