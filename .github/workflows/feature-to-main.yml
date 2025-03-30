@@ -1,9 +1,9 @@
-name: FeatureBranch To MainBranch
+name: FeatureBranch To Staging
 
 on:
   pull_request:
     branches:
-      - main
+      - staging
 
 jobs:
   check-merge-approval:
