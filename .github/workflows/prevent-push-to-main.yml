@@ -11,6 +11,6 @@ jobs:
     steps:
       - name: Prevent direct push to main
         run: |
-          echo "Direct push to main is not allowed. Raise a PR from the feature branch"
+          echo "Direct push to main is not allowed. Raise a PR into staging branch"
           exit 
           
