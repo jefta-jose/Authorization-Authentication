@@ -1,4 +1,6 @@
-﻿namespace api.Models
+﻿using api.DTOs;
+
+namespace api.Models
 {
     public class User
     {
@@ -7,5 +9,10 @@
         public string Name { get; set; } = "";
 
         public string Role { get; set; } = "";
+
+        public static implicit operator User(UserDto v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

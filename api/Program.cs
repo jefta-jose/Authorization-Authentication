@@ -1,4 +1,6 @@
 using api.Data;
+using api.Services;
+using api.Services.Interface;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +13,9 @@ builder.Services.AddSwaggerGen();
 //register more services
 builder.Services.AddDbContext<Db_Context>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IUser, UserService>();
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
 

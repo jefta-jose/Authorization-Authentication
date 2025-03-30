@@ -3,60 +3,52 @@
   "WorkspaceRootPath": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\services\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:services\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\data\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:data\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\mappingprofiles\\userprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:mappingprofiles\\userprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\services\\interface\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:services\\interface\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\helpers\\guidextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:helpers\\guidextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\services\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:services\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\helpers\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:helpers\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|c:\\development\\feature based projects\\authorization-authentication\\api\\helpers\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF8DAA-DDF6-4F3E-99EB-4C53E782D241}|api.csproj|solutionrelative:helpers\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,162 +58,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "api",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\api.csproj",
-              "RelativeDocumentMoniker": "api.csproj",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\api.csproj",
-              "RelativeToolTip": "api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-28T20:21:16.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProduct.cs",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\Interface\\IProduct.cs",
-              "RelativeDocumentMoniker": "Services\\Interface\\IProduct.cs",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\Interface\\IProduct.cs",
-              "RelativeToolTip": "Services\\Interface\\IProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserProfiles.cs",
+              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\MappingProfiles\\UserProfiles.cs",
+              "RelativeDocumentMoniker": "MappingProfiles\\UserProfiles.cs",
+              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\MappingProfiles\\UserProfiles.cs",
+              "RelativeToolTip": "MappingProfiles\\UserProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T20:14:42.068Z",
+              "WhenOpened": "2025-03-30T20:54:30.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IUser.cs",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\Interface\\IUser.cs",
-              "RelativeDocumentMoniker": "Services\\Interface\\IUser.cs",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\Interface\\IUser.cs",
-              "RelativeToolTip": "Services\\Interface\\IUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T20:14:28.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T20:14:14.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T20:13:55.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T20:13:42.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T20:12:59.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\DTOs\\UserDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\DTOs\\UserDto.cs",
-              "RelativeToolTip": "DTOs\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T20:12:07.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\DTOs\\ProductDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\ProductDto.cs",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\DTOs\\ProductDto.cs",
-              "RelativeToolTip": "DTOs\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T20:11:31.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T19:59:55.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T19:59:43.366Z",
+              "Title": "api",
+              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\api.csproj",
+              "RelativeDocumentMoniker": "api.csproj",
+              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\api.csproj",
+              "RelativeToolTip": "api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T20:52:58.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Db_Context.cs",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Data\\Db_Context.cs",
-              "RelativeDocumentMoniker": "Data\\Db_Context.cs",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Data\\Db_Context.cs",
-              "RelativeToolTip": "Data\\Db_Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T19:58:23.277Z",
+              "WhenOpened": "2025-03-30T20:47:17.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\DTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateUserDto.cs",
+              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\DTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "DTOs\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:41:54.946Z",
               "EditorCaption": ""
             },
             {
@@ -232,22 +120,100 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T05:44:44.673Z",
+              "WhenOpened": "2025-03-30T20:39:21.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-25T05:41:52.513Z",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:29:04.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Helpers\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Helpers\\PagedResult.cs",
+              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Helpers\\PagedResult.cs",
+              "RelativeToolTip": "Helpers\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:53:10.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Helpers\\Result.cs",
+              "RelativeDocumentMoniker": "Helpers\\Result.cs",
+              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Helpers\\Result.cs",
+              "RelativeToolTip": "Helpers\\Result.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:52:53.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuidExtensions.cs",
+              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Helpers\\GuidExtensions.cs",
+              "RelativeDocumentMoniker": "Helpers\\GuidExtensions.cs",
+              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Helpers\\GuidExtensions.cs",
+              "RelativeToolTip": "Helpers\\GuidExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:44:44.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:41:53.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:34:11.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\Interface\\IUser.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IUser.cs",
+              "ToolTip": "C:\\Development\\Feature Based Projects\\Authorization-Authentication\\api\\Services\\Interface\\IUser.cs",
+              "RelativeToolTip": "Services\\Interface\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:33:14.482Z",
               "EditorCaption": ""
             }
           ]
