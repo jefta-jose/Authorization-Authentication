@@ -12,4 +12,5 @@ jobs:
       - name: Prevent direct push to main
         run: |
           echo "Direct push to main is not allowed. Raise a PR from the feature branch"
-          exit 1
+          exit 
+          
