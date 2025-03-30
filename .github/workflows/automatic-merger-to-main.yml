@@ -11,15 +11,21 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Ensures full commit history
 
       - name: Configure Git
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
+      - name: Authenticate with GitHub
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
       - name: Merge staging into main
         run: |
           git fetch origin main
           git checkout main
-          git merge origin/staging --no-edit
+          git merge origin/staging --no-edit --allow-unrelated-histories
           git push origin main
