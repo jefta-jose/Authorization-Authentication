@@ -1,5 +1,5 @@
 ﻿using api.DTOs;
-using api.Services.Interface;
+using api.Services.UserService;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
