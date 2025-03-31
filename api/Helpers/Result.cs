@@ -19,14 +19,14 @@ namespace api.Helpers
         //Object to return as a success
         public TValue? Value { get; protected set; }
 
-        public static Result<TValue> Success(HttpStatusCode statuscode, TValue value, string message = null) => new()
+        public static Result<TValue> Success(HttpStatusCode statuscode, TValue value, string message) => new()
         {
             StatusCode = statuscode,
             Value = value,
             Message = message
         };
 
-        public static Result<TValue> Failed(HttpStatusCode statusCode, string error, string meta = null, string message = null) => new()
+        public static Result<TValue> Failed(HttpStatusCode statusCode, string error, string meta, string message) => new()
         {
             StatusCode = statusCode,
             Error = error,

@@ -1,7 +1,7 @@
 ﻿using api.DTOs;
 using api.Helpers;
 
-namespace api.Services.Interface
+namespace api.Services.UserService
 {
     public interface IUser
     {

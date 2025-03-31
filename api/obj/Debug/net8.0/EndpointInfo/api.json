@@ -40,9 +40,25 @@
   "components": {
     "schemas": {
       "CreateUserDto": {
+        "required": [
+          "email"
+        ],
         "type": "object",
         "properties": {
-          "name": {
+          "firstName": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "password": {
             "type": "string",
             "nullable": true
           },
