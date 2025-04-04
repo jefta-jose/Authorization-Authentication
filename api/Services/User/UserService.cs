@@ -4,6 +4,7 @@ using api.Helpers;
 using api.Models;
 using api.Services.EmailService;
 using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using System.Net;
 
 namespace api.Services.UserService
@@ -19,6 +20,13 @@ namespace api.Services.UserService
             {
                 Guid Id = GuidExtensions.GenerateId();
                 string HashedPassword = PasswordHasher.HashPassword(NewUser.Password);
+
+                bool userExists = await CheckIfUserExists(NewUser.Email);
+
+                if (userExists)
+                {
+                    return Result<UserDto>.Failed(HttpStatusCode.BadRequest, "User Already Exists", "", "");
+                }
 
                 User userToAdd = new()
                 {
@@ -36,11 +44,10 @@ namespace api.Services.UserService
 
                 string AppPassword = _configuration["AppPassword:PassWordValue"];
 
-                Console.WriteLine($"AppPassword: {AppPassword}");
-
-                await EmailSenderService.SendEmailAsync(userToAdd.Email,"Welcome To Auth and Auth", "You have successfully created an email at auth && auth limited", AppPassword);
+                await EmailSenderService.SendEmailAsync(userToAdd.Email, "Welcome To Auth and Auth", "You have successfully created an email at auth && auth limited", AppPassword);
 
                 return Result<UserDto>.Success(HttpStatusCode.OK, result, "You Have Successfully created a new user");
+
             }
 
             catch(Exception ex)
@@ -48,5 +55,20 @@ namespace api.Services.UserService
                 return Result<UserDto>.Failed(HttpStatusCode.InternalServerError, ex.Message, ex.InnerException?.Message,"There was a problem processing your request");
             }
         }
+
+        public async Task<bool> CheckIfUserExists(string Email)
+        {
+            User doesUserExist = await db_Context.Users.FirstOrDefaultAsync(user => user.Email == Email);
+
+            if (doesUserExist == null)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+        }
+
     }
 }
